@@ -72,9 +72,10 @@ Authorization: Bearer <token>
 ## Screenshots
 
 Below are the example screenshots for the login response and the protected endpoint response.
-<img src = "Demo_JWT\src\Screenshot 2026-04-07 155039.png" alt = "page failed to load">
-<img src = "Demo_JWT\src\Screenshot 2026-04-07 155126.png" alt = "page failed to load">
 
+![Login response](images/login_response.png)
+
+![Protected endpoint response](images/protected_response.png)
 
 ## Notes
 
